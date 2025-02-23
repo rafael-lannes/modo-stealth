@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Modo Stealth 2025 by Ranesu
 ---
 
