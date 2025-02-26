@@ -1,11 +1,11 @@
 title: Modo Stealth
 author:
-  name: Ranesu
+  name: Rafael Lannes (Ranesu)
 
 description: >
-  Modo Stealth é um blog pessoal focado em reviews de jogos e opiniões sinceras sobre o mundo dos games. 
-  Aqui, cada análise é feita com um olhar crítico e apaixonado, explorando desde grandes lançamentos até pérolas escondidas. 
-  Seja para descobrir um novo jogo ou debater tendências da indústria, o Modo Stealth é o espaço para quem gosta de jogar com estratégia – ou simplesmente quer saber o que vale a pena jogar. 🎮
+  Modo Stealth é escrito por Ranesu e é um blog pessoal com reviews diretos e opiniões sinceras. 
+  Aqui trago impressões sobre lançamentos, clássicos e jogos menos conhecidos. 
+  Se você curte explorar mundos virtuais e discutir a indústria dos games, aqui é o lugar certo! 🎮
 
 remote_theme: jekyll/minima
 plugins:
