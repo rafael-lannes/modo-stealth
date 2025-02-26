@@ -2,6 +2,9 @@
 title: "Review Avowed PC"
 date: 2025-02-25
 ---
+
+!(https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2457220/header.jpg?t=1740094213)
+
 # Introdução
 Avowed é um RPG produzido pela Obsidian e o primeiro jogo lançado após a compra do estúdio pela Microsoft. Quando foi anunciado, eu estava bastante animado, mas, com o tempo, conforme novos trailers e informações foram sendo divulgados, minha expectativa caiu consideravelmente.
 
