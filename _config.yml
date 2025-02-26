@@ -7,3 +7,10 @@ plugins:
 minima:
   skin: dark # or auto if you want it to switch with your system settings.
   date_format: "%d/%m/%Y"
+social_links:
+  #  - title: Minima Theme repository at GitHub
+  #    icon: github
+  #    url: "https://github.com/jekyll/minima"
+    - title: Ranesu
+      icon: x-twitter
+      url: "https://x.com/ranesu_"
