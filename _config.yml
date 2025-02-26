@@ -1,4 +1,11 @@
-theme: minima
+#theme: minima
+#minima:
+#  skin: dark
+#  date_format: "%d/%m/%Y"
+
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 minima:
-  skin: dark
+  skin: dark # or auto if you want it to switch with your system settings.
   date_format: "%d/%m/%Y"
