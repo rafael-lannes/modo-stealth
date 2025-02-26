@@ -1,3 +1,6 @@
+title: Modo Stealth
+author:
+  name: Ranesu
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
