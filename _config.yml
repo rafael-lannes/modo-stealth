@@ -1,6 +1,12 @@
 title: Modo Stealth
 author:
   name: Ranesu
+
+description: >
+  Modo Stealth é um blog pessoal focado em reviews de jogos e opiniões sinceras sobre o mundo dos games. 
+  Aqui, cada análise é feita com um olhar crítico e apaixonado, explorando desde grandes lançamentos até pérolas escondidas. 
+  Seja para descobrir um novo jogo ou debater tendências da indústria, o Modo Stealth é o espaço para quem gosta de jogar com estratégia – ou simplesmente quer saber o que vale a pena jogar. 🎮
+
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
