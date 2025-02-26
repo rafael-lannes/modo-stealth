@@ -1,2 +1,5 @@
 theme: minima
 title: Modo Stealth por: Ranesu
+minima:
+  skin: dark
+  date_format: "%d/%m/%Y"
